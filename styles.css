@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    border: o;
+}
+
+.hero-section{
+  background-image: url(hotelpic.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-blend-mode: color-burn;
+  
+
+}
+
+.hero-text{
+    color: rgb(237, 5, 140);
+    text-align: center;
+    position: relative;
+    top: 40%;
+    transform: translate x,y(-50%,-50%);
+}
+
+.hero-para{
+    color: black;
+}
+
+.book {
+    color: blue;
+    background-color: pink;
+    border: 2px solid green;
+    border-style: dotted;
+}
+
+.about-us-text{
+    float: left;
+    width: 60%;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    top: 20px; 
+    margin-top: 20px;
+}
+.know {
+    color : black;
+    background-color: lightblue;
+}
+
+.amenties-text{
+    width: 35%;
+   float: right;
+   top: 20px;
+   margin-bottom: 10px;
+}
+
+h3{
+    text-align: center;
+}
